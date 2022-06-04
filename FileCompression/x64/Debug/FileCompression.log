@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\Lenovo\Desktop\个人事务\算法导论\大作业\FileCompression\源.cpp(366,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\个人事务\算法导论\大作业\FileCompression\源.cpp(375,11): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\个人事务\算法导论\大作业\FileCompression\源.cpp(378,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\个人事务\算法导论\大作业\FileCompression\源.cpp(391,23): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  FileCompression.vcxproj -> C:\Users\Lenovo\Desktop\个人事务\算法导论\大作业\FileCompression\x64\Debug\FileCompression.exe
